@@ -63,7 +63,7 @@
 ### Задание 2
 
 1. Изучите [техзадание](https://docs.google.com/document/d/1PC6MlYzSlnDJ15yXLL3Jt-ZUcSGeqRlW4jYuNJ8evxc/edit?usp=sharing "Техзадание")
-2. Ознакомьтесь с каталогами поставщиков указанных выше
+2. Ознакомьтесь с каталогами поставщиков [Leuze](https://leuze.ru/ "Каталог LEUZE"), [Euchner](https://rumatika.ru/catalog/euchner/mnogofunkcionalnaya-kalitka-mgb "Каталог EUCHNER")
 3. Осуществите подбор устройств безопасности, которые соответствуют характеристикам ТЗ
 4. Предоставьте ссылки на выбранные модели устройств
 5. Кратко поясните свой выбор
