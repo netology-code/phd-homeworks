@@ -46,7 +46,7 @@
 
 ### Задание 1
 
-1. Изучите [техзадание](https://docs.google.com/document/d/15nj_CEFH1VlFGSm6qSBnOOsqfgkBTGPt9gF8n5LgqZs/edit?usp=sharing "Техзадание")
+1. Изучите [техзадание](https://docs.google.com/document/d/1ISA2-taWlzi9mr5L3wI77xyQzEaZYVVbh7V6OBn7H7A/edit?usp=sharing)
 2. Ознакомьтесь с каталогами поставщиков, указанных выше
 3. Осуществите подбор датчиков для установки, которые соответствуют характеристикам ТЗ
 4. Предоставьте ссылки на выбранные модели датчиков
