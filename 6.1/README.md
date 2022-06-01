@@ -37,8 +37,8 @@
 
 1. [Каталог](https://www.vega.com/ru/products "Каталог Vega") производителя датчиков давления, уровня, расхода
 2. [Каталог](https://owen.ru/ "Каталог OWEN") производителя датчиков температуры, давления, уровня, индуктивных сенсоров
-3. [Техзадание для задания 1](https://docs.google.com/document/d/15nj_CEFH1VlFGSm6qSBnOOsqfgkBTGPt9gF8n5LgqZs/edit?usp=sharing "Техзадание")
-4. [Техзадание для задания 2](https://docs.google.com/document/d/1dwpsH3bpOIFZwhFXnl3s3WIVbQCe52fZRAdz4D-TRF0/edit?usp=sharing "Техзадание")
+3. [Техзадание для задания 1](https://docs.google.com/document/d/1ISA2-taWlzi9mr5L3wI77xyQzEaZYVVbh7V6OBn7H7A/edit?usp=sharing)
+4. [Техзадание для задания 2](https://docs.google.com/document/d/1nH05HaEzej4GavzxBRgfUAYoYd3q8Hzya03ghdpb-Xs/edit?usp=sharing)
 5. [Шаблон для домашнего задания](https://docs.google.com/document/d/1kII1Hxgb90OBybWrg2cLtfM2Uu5OLUSKZJ8wEk8xZR8/edit?usp=sharing "Шаблон")
 
 
@@ -57,7 +57,7 @@
 
 ### Задание 2* (Необязательное для выполнения)
 
-1. Изучите [техзадание](https://docs.google.com/document/d/1dwpsH3bpOIFZwhFXnl3s3WIVbQCe52fZRAdz4D-TRF0/edit?usp=sharing "Техзадание")
+1. Изучите [техзадание](https://docs.google.com/document/d/1nH05HaEzej4GavzxBRgfUAYoYd3q8Hzya03ghdpb-Xs/edit?usp=sharing)
 2. Ознакомьтесь с каталогами поставщиков, указанных выше
 3. Осуществите подбор датчиков для установки, которые соответствуют характеристикам ТЗ
 4. Предоставьте ссылки на выбранные модели датчиков
