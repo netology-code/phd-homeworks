@@ -38,6 +38,8 @@
 1. [Каталог](https://owen.ru/ "Каталог OWEN") блоков питания.
 2. [Каталог](https://leuze.ru/ "Каталог LEUZE") оптических датчиков, фотобарьеров, устройств безопасности.
 2. [Каталог](https://rumatika.ru/catalog/euchner/mnogofunkcionalnaya-kalitka-mgb "Каталог EUCHNER") устройств безопасности, концевых выключателей, панелей доступа. 
+3. [Техзадание](https://docs.google.com/document/d/1zUkfsKGvxLHEb1JmVgjXW5G5eYtOLfOb9mqxnA09oZM/edit?usp=sharing "Техзадание")
+4. [Шаблон для домашнего задания](https://docs.google.com/document/d/10gPSeAneOJgzWHZdeK1oHMlTghpS5tzVsMMCmPU1hm4/edit?usp=sharing) 
 
 
 
