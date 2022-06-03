@@ -38,7 +38,7 @@
 1. [Каталог](https://owen.ru/ "Каталог OWEN") блоков питания.
 2. [Каталог](https://leuze.ru/ "Каталог LEUZE") оптических датчиков, фотобарьеров, устройств безопасности.
 2. [Каталог](https://rumatika.ru/catalog/euchner/mnogofunkcionalnaya-kalitka-mgb "Каталог EUCHNER") устройств безопасности, концевых выключателей, панелей доступа. 
-3. [Техзадание](https://docs.google.com/document/d/1zUkfsKGvxLHEb1JmVgjXW5G5eYtOLfOb9mqxnA09oZM/edit?usp=sharing "Техзадание")
+3. [Техзадание](https://docs.google.com/document/d/1JViB42ldJxdsu4Jjn5vhJJIEsWHYM4DKEJGHLvhWQ98/edit?usp=sharing "Техзадание")
 4. [Шаблон для домашнего задания](https://docs.google.com/document/d/10gPSeAneOJgzWHZdeK1oHMlTghpS5tzVsMMCmPU1hm4/edit?usp=sharing) 
 
 
@@ -63,7 +63,7 @@
 
 ### Задание 2
 
-1. Изучите [техзадание](https://docs.google.com/document/d/1zUkfsKGvxLHEb1JmVgjXW5G5eYtOLfOb9mqxnA09oZM/edit?usp=sharing "Техзадание")
+1. Изучите [техзадание](https://docs.google.com/document/d/1JViB42ldJxdsu4Jjn5vhJJIEsWHYM4DKEJGHLvhWQ98/edit?usp=sharing "Техзадание")
 2. Ознакомьтесь с каталогами поставщиков [Leuze](https://leuze.ru/ "Каталог LEUZE"), [Euchner](https://rumatika.ru/catalog/euchner/mnogofunkcionalnaya-kalitka-mgb "Каталог EUCHNER").
 3. Осуществите подбор устройств безопасности, которые соответствуют характеристикам ТЗ.
 4. Предоставьте ссылки на выбранные модели устройств.
