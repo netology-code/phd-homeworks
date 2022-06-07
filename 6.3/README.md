@@ -38,7 +38,7 @@
 1. [Каталог](https://phoenix-contact.ru/catalog/releynye_moduli/ "Каталог Реле") реле.
 2. [Каталог](https://e-catalogue.legrand.ru/catalog/silovoe-i-zashchitno-kommutatsionnoe-oborudovanie/ctx-sup3-promyshlennye-kontaktory/trekhpolyusnye-promyshlennye-kontaktory-ctx-sup3/ "Каталог пускателей") пускателей (контакторов).
 2. [Каталог](https://www.siemens-ru.com/taxonomy/term/289 "Каталог Преобразователей частоты") частотных преобразователей Siemens. 
-3. [Техзадание](https://docs.google.com/document/d/1hfyUTsFadXMWNyJB3yF87LY3Rhyxtg-Fg3RklpeMnT4/edit?usp=sharing "Техзадание")
+3. [Техзадание](https://docs.google.com/document/d/1TmWtAenr3f72ayAz6cu18-bOUhQRqqcRWHZ82FtJMzM/edit?usp=sharing "Техзадание")
 4. [Шаблон для домашнего задания](https://docs.google.com/document/d/1DG4TilKWQsFqUo_LnuDtoOEekD9wh_3OiBFkrkHN5Wo/edit?usp=sharing) 
 
 ------
@@ -54,7 +54,7 @@
 
 ### Задание 2
 
-1. Изучите [техзадание](https://docs.google.com/document/d/1hfyUTsFadXMWNyJB3yF87LY3Rhyxtg-Fg3RklpeMnT4/edit?usp=sharing "Техзадание")
+1. Изучите [техзадание](https://docs.google.com/document/d/1TmWtAenr3f72ayAz6cu18-bOUhQRqqcRWHZ82FtJMzM/edit?usp=sharing "Техзадание")
 2. Ознакомьтесь с каталогами поставщиков - [реле](https://phoenix-contact.ru/catalog/releynye_moduli/ "Каталог Реле"), [пускателей(контакторов)](https://e-catalogue.legrand.ru/catalog/silovoe-i-zashchitno-kommutatsionnoe-oborudovanie/ctx-sup3-promyshlennye-kontaktory/trekhpolyusnye-promyshlennye-kontaktory-ctx-sup3/ "Каталог пускателей"), [частотных преобразователей](https://www.siemens-ru.com/taxonomy/term/289 "Каталог Преобразователей частоты").
 3. Используя каталоги, осуществите подбор частотного преобразователя, пускателя и реле.
 4. В выборе стоит ориентироваться на мощность устройств в зависимости от параметров двигателя.
