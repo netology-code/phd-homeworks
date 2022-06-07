@@ -35,9 +35,9 @@
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [Каталог](https://owen.ru/ "Каталог OWEN") блоков питания.
-2. [Каталог](https://leuze.ru/ "Каталог LEUZE") оптических датчиков, фотобарьеров, устройств безопасности.
-2. [Каталог](https://rumatika.ru/catalog/euchner/mnogofunkcionalnaya-kalitka-mgb "Каталог EUCHNER") устройств безопасности, концевых выключателей, панелей доступа. 
+1. [Каталог](https://phoenix-contact.ru/catalog/releynye_moduli/ "Каталог Реле") реле.
+2. [Каталог](https://e-catalogue.legrand.ru/catalog/silovoe-i-zashchitno-kommutatsionnoe-oborudovanie/ctx-sup3-promyshlennye-kontaktory/trekhpolyusnye-promyshlennye-kontaktory-ctx-sup3/ "Каталог пускателей") пускателей (контакторов).
+2. [Каталог](https://www.siemens-ru.com/taxonomy/term/289 "Каталог Преобразователей частоты") частотных преобразователей Siemens. 
 3. [Техзадание](https://docs.google.com/document/d/1JViB42ldJxdsu4Jjn5vhJJIEsWHYM4DKEJGHLvhWQ98/edit?usp=sharing "Техзадание")
 4. [Шаблон для домашнего задания](https://docs.google.com/document/d/10gPSeAneOJgzWHZdeK1oHMlTghpS5tzVsMMCmPU1hm4/edit?usp=sharing) 
 
@@ -52,8 +52,12 @@
 
 ### Задание 2
 
-1. ...
-2. ...
+1. Изучите [техзадание](https://docs.google.com/document/d/1hfyUTsFadXMWNyJB3yF87LY3Rhyxtg-Fg3RklpeMnT4/edit?usp=sharing "Техзадание")
+2. Ознакомьтесь с каталогами поставщиков [Каталог](https://phoenix-contact.ru/catalog/releynye_moduli/ "Каталог Реле") реле, [Каталог](https://e-catalogue.legrand.ru/catalog/silovoe-i-zashchitno-kommutatsionnoe-oborudovanie/ctx-sup3-promyshlennye-kontaktory/trekhpolyusnye-promyshlennye-kontaktory-ctx-sup3/ "Каталог пускателей") пускателей (контакторов), [Каталог](https://www.siemens-ru.com/taxonomy/term/289 "Каталог Преобразователей частоты") частотных преобразователей Siemens.
+3. Используя каталоги осуществите подбор частотного преобразователя, пускателя и реле.
+4. В выборе стоит ориентироваться на мощность устройств, в зависимости от параметров двигателя.
+5. Предоставьте ссылки на выбранные модели устройств.
+6. Кратко поясните свой выбор.
 
 ------
 
