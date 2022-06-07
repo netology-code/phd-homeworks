@@ -38,7 +38,7 @@
 1. [Каталог](https://phoenix-contact.ru/catalog/releynye_moduli/ "Каталог Реле") реле.
 2. [Каталог](https://e-catalogue.legrand.ru/catalog/silovoe-i-zashchitno-kommutatsionnoe-oborudovanie/ctx-sup3-promyshlennye-kontaktory/trekhpolyusnye-promyshlennye-kontaktory-ctx-sup3/ "Каталог пускателей") пускателей (контакторов).
 2. [Каталог](https://www.siemens-ru.com/taxonomy/term/289 "Каталог Преобразователей частоты") частотных преобразователей Siemens. 
-3. [Техзадание](https://docs.google.com/document/d/1JViB42ldJxdsu4Jjn5vhJJIEsWHYM4DKEJGHLvhWQ98/edit?usp=sharing "Техзадание")
+3. [Техзадание](https://docs.google.com/document/d/1hfyUTsFadXMWNyJB3yF87LY3Rhyxtg-Fg3RklpeMnT4/edit?usp=sharing "Техзадание")
 4. [Шаблон для домашнего задания](https://docs.google.com/document/d/1DG4TilKWQsFqUo_LnuDtoOEekD9wh_3OiBFkrkHN5Wo/edit?usp=sharing) 
 
 ------
