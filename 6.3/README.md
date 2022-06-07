@@ -53,7 +53,7 @@
 ### Задание 2
 
 1. Изучите [техзадание](https://docs.google.com/document/d/1hfyUTsFadXMWNyJB3yF87LY3Rhyxtg-Fg3RklpeMnT4/edit?usp=sharing "Техзадание")
-2. Ознакомьтесь с каталогами поставщиков [Каталог](https://phoenix-contact.ru/catalog/releynye_moduli/ "Каталог Реле") реле, [Каталог](https://e-catalogue.legrand.ru/catalog/silovoe-i-zashchitno-kommutatsionnoe-oborudovanie/ctx-sup3-promyshlennye-kontaktory/trekhpolyusnye-promyshlennye-kontaktory-ctx-sup3/ "Каталог пускателей") пускателей (контакторов), [Каталог](https://www.siemens-ru.com/taxonomy/term/289 "Каталог Преобразователей частоты") частотных преобразователей Siemens.
+2. Ознакомьтесь с каталогами поставщиков - [каталог](https://phoenix-contact.ru/catalog/releynye_moduli/ "Каталог Реле") реле, [каталог](https://e-catalogue.legrand.ru/catalog/silovoe-i-zashchitno-kommutatsionnoe-oborudovanie/ctx-sup3-promyshlennye-kontaktory/trekhpolyusnye-promyshlennye-kontaktory-ctx-sup3/ "Каталог пускателей") пускателей (контакторов), [каталог](https://www.siemens-ru.com/taxonomy/term/289 "Каталог Преобразователей частоты") частотных преобразователей Siemens.
 3. Используя каталоги осуществите подбор частотного преобразователя, пускателя и реле.
 4. В выборе стоит ориентироваться на мощность устройств, в зависимости от параметров двигателя.
 5. Предоставьте ссылки на выбранные модели устройств.
