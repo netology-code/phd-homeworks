@@ -39,6 +39,7 @@
 - [Allen-Bradley Micro820 20 Point 2080-LC20-20QBB(R)](https://klinkmann.ru/download/?file=7961&el=17586&section=rockwell-automation)
 - [Schneider Electric M221-16IO](https://www.se.com/ru/ru/product/download-pdf/TM221CE16R)
 - [Mitsubishi Electric FX5U-32MR/DS](https://ru.mitsubishielectric.com/fa/products/cnt/plc/plcf/cpu-module/fx5u-32mr-ds.html)
+3. [Шаблон для домашнего задания](https://docs.google.com/document/d/1Ty_ihzX2Vjiry2ofzjm-JnKu0PrN5B7710Sd26gCHDM/edit?usp=sharing)
 
 ------
 
