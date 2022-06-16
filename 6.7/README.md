@@ -54,7 +54,7 @@
 
 Подберите оборудование в соответствии с [техническим заданием](https://docs.google.com/document/d/1tvL5GHMFc6M52DuMWpGlFlc_Yxgmg3JFYjHh0-HFBbQ/edit?usp=sharing).
 
-*Результатом выполнения данного задания будет заполненная [спецификация](https://docs.google.com/spreadsheets/d/12CCWojuBL6S2qRvUdwX1AmdFzx92rlQ9OMwxiN9qGI0/edit?usp=sharing) с комплектом подобранного оборудования*.
+*Результатом выполнения данного задания будет заполненная [спецификация](https://docs.google.com/spreadsheets/d/12CCWojuBL6S2qRvUdwX1AmdFzx92rlQ9OMwxiN9qGI0/edit?usp=sharing) с комплектом подобранного оборудования. Для работы со спецификацией сохраните копию документа на свой диск*.
 
 ### Задание 2
 
