@@ -38,7 +38,7 @@
 3. [OWEN Logic](https://owen.ru/product/programmnoe_obespechenie_owen_logic).
 4. [ОВЕН OPC](https://owen.ru/product/new_opc_server/documentation_and_software).
 5. [Инструкция по установке и настройке ОВЕН OPC](https://docs.google.com/presentation/d/17y1o9sd37TdxqXJT7Jly9mM31kDaEuZpYkmKrzWOj1Y/edit?usp=sharing).
-6. [Техническое задание](https://docs.google.com/document/d/1dJduxjuhRJ2rzFq9EvDvrrSl1wI86IjM20YwIZ_r-qw/edit?usp=sharing).
+6. [Техническое задание](https://docs.google.com/document/d/1tvL5GHMFc6M52DuMWpGlFlc_Yxgmg3JFYjHh0-HFBbQ/edit?usp=sharing).
 7. [Шаблон спецификации](https://docs.google.com/spreadsheets/d/12CCWojuBL6S2qRvUdwX1AmdFzx92rlQ9OMwxiN9qGI0/edit?usp=sharing).
 8. [Шаблон для домашнего задания](https://docs.google.com/document/d/1dU6WBvn5AKvY8BglrJ7EhkWwUVFJWSdKmuWryiGoQvA/edit?usp=sharing).
 
@@ -52,7 +52,7 @@
 - датчики открытия/закрытия клапана
 - кнопки открытия/закрытия и кнопку остановки (**находятся в разделе «Каталог продукции - Электротехническое оборудование MEYERTEK»**).
 
-Подберите оборудование в соответствии с [техническим заданием](https://docs.google.com/document/d/1dJduxjuhRJ2rzFq9EvDvrrSl1wI86IjM20YwIZ_r-qw/edit?usp=sharing).
+Подберите оборудование в соответствии с [техническим заданием](https://docs.google.com/document/d/1tvL5GHMFc6M52DuMWpGlFlc_Yxgmg3JFYjHh0-HFBbQ/edit?usp=sharing).
 
 *Результатом выполнения данного задания будет заполненная [спецификация](https://docs.google.com/spreadsheets/d/12CCWojuBL6S2qRvUdwX1AmdFzx92rlQ9OMwxiN9qGI0/edit?usp=sharing) с комплектом подобранного оборудования*.
 
