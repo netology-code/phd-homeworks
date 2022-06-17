@@ -55,6 +55,8 @@
 
 1. При первой загрузке нового проекта Программист получил ошибку (Рисунок 1) «Main (OB1)» cannot be simulated. If the block is a library block, use a library with simulation support. Otherwise, select the option «Support the simulation during block compilation» in the project properties and recompile the block («Main (OB1)» не может быть смоделирован. Если блок является библиотечным блоком, используйте библиотеку с поддержкой моделирования. В противном случае выберите опцию «Поддержка моделирования во время компиляции блока» в свойствах проекта и перекомпилируйте блок.) 
 
+![image](https://github.com/netology-code/phd-homeworks/blob/main/6.6/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA%201.png)
+
 Рисунок 1
 Объясните, в чем проблема, и как ее можно решить. Ответ приведите в письменной форме, скриншоты приветствуются.
 ------
@@ -68,6 +70,8 @@
 - при помощи симулятора выполните подключение (ethernet, MPI – на Ваш выбор)
 - переведите проект в режим «Go-online», проверьте, что все устройства подключены без ошибок 
 Ответ пришлите в виде скриншота, как на рисунке 2
+
+![image](https://github.com/netology-code/phd-homeworks/blob/main/6.6/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA%202.png)
 
 2. Выполните код 
 Вы получили следующее техническое задание:
