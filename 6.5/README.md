@@ -13,9 +13,13 @@
 
 ### Чеклист готовности к домашнему заданию
 
-Скачан и установлен программный пакет [TIA Portal 13](https://support.industry.siemens.com/cs/document/109745155/simatic-step-7-including-plcsim-v13-sp2-trial-download?dti=0&lc=en-WW) (необходима регистрация на сайте Siemens).
- 
- **ВНИМАНИЕ!** Устанавливается демо-версия программы. Её функционал будет ограничен спустя 21 день после установки. Производите установку программы только непосредственно перед началом выполнения задания.
+1. Зарегистрируйтесь на [портале Siemens](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru) и получите персональный логин и пароль для входа в систему. Процесс регистрации описан в [соответствующей инструкции](https://docs.google.com/presentation/d/1RPHvCE2OxBbHRMWSAV2E-HxscZvR2nRIZVHCy8hvjJE/edit?usp=sharing).
+2. Загрузите и установите программное обеспечение для создания HMI WinCC, входящее в состав пакета TIA Portal с [официального ресурса Siemens](https://support.industry.siemens.com/cs/document/78793685/simatic-step-7-(tia-portal)-v13-trial-download?dti=0&lc=en-DE):
+- скачайте все файлы по ссылке в отдельную папку
+- запустите SIMATIC_STEP_7_Professional_V13_SP2_Upd4.exe
+- пройдите стандартную процедуру установки
+
+*ОБРАТИТЕ ВНИМАНИЕ! Устанавливается демо-версия программы. Её функционал будет ограничен спустя 21 день после установки. Рекомендуется установка софта на виртуальной машине. Как это сделать, описано в [инструкции](https://docs.google.com/presentation/d/19cSsdcEucIE7oTKTbxEnkeRKdH7vw8_mneortgpkOF4/edit?usp=sharing).*
 
 ------
 
