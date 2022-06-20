@@ -23,9 +23,9 @@ TIA Portal (Totally Integrated Automation Portal) — интегрированн
   
 1. Скачайте все файлы по [ссылке](https://support.industry.siemens.com/cs/document/109745155/simatic-step-7-including-plcsim-v13-sp2-trial-download?dti=0&lc=en-DE) в две отдельные папки:
   - STEP 7 Professional V13 SP2 (DVD 1, DVD 2, SHA-256 checksum)
-  ![image](https://github.com/netology-code/phd-homeworks/blob/main/6.6/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA%201.png)
+  ![image](https://github.com/netology-code/phd-homeworks/blob/main/6.6/Step7_1.png)
   - SIMATIC STEP 7 PLCSIM V13 SP2 for STEP 7 Basic and STEP 7 Professional (включая SHA-256 checksum)
-    ![image](https://github.com/netology-code/phd-homeworks/blob/main/6.6/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA%201.png)
+    ![image](https://github.com/netology-code/phd-homeworks/blob/main/6.6/Step7_2.png)
 2. Запустите установочный файл SIMATIC_STEP_7_Professional_V13_SP2_Upd4.exe, пройдите стандартную процедуру установки.
 3. Запустите установочный файл SIMATIC_S7_PLCSIM_V13_SP2.exe, пройдите стандартную процедуру установки.
 
