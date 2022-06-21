@@ -14,12 +14,12 @@
 ### Чеклист готовности к домашнему заданию
 
 1. Зарегистрируйтесь на [портале Siemens](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru) и получите персональный логин и пароль для входа в систему. Процесс регистрации описан в [соответствующей инструкции](https://docs.google.com/presentation/d/1RPHvCE2OxBbHRMWSAV2E-HxscZvR2nRIZVHCy8hvjJE/edit?usp=sharing).
-2. Загрузите и установите программное обеспечение для создания HMI WinCC, входящее в состав пакета TIA Portal с [официального ресурса Siemens](https://support.industry.siemens.com/cs/document/78793685/simatic-step-7-(tia-portal)-v13-trial-download?dti=0&lc=en-DE):
-- скачайте все файлы по ссылке в отдельную папку
+2. Загрузите и установите программное обеспечение для создания проекта, входящее в состав пакета TIA Portal с [официального ресурса Siemens](https://support.industry.siemens.com/cs/document/78793685/simatic-step-7-(tia-portal)-v13-trial-download?dti=0&lc=en-DE):
+- скачайте все файлы STEP 7 Professional V13 SP2 (DVD 1, DVD 2, SHA-256 checksum) по ссылке в отдельную папку
 - запустите SIMATIC_STEP_7_Professional_V13_SP2_Upd4.exe
 - пройдите стандартную процедуру установки
 
-*ОБРАТИТЕ ВНИМАНИЕ! Устанавливается демо-версия программы. Её функционал будет ограничен спустя 21 день после установки. Рекомендуется установка софта на виртуальной машине. Как это сделать, описано в [инструкции](https://docs.google.com/presentation/d/19cSsdcEucIE7oTKTbxEnkeRKdH7vw8_mneortgpkOF4/edit?usp=sharing).*
+*ОБРАТИТЕ ВНИМАНИЕ! Устанавливается демо-версия программы. Её функционал будет ограничен спустя 21 день после установки. Рекомендуется установка софта на виртуальной машине. Как это сделать, описано в [инструкции](https://docs.google.com/presentation/d/1psnSlotXT7cr8ECnaZaTCDLnIyYOGUzCArLeydeRztY/edit?usp=sharing).*
 
 ------
 
@@ -43,7 +43,8 @@
 - [Allen-Bradley Micro820 20 Point 2080-LC20-20QBB(R)](https://klinkmann.ru/download/?file=7961&el=17586&section=rockwell-automation)
 - [Schneider Electric M221-16IO](https://www.se.com/ru/ru/product/download-pdf/TM221CE16R)
 - [Mitsubishi Electric FX5U-32MR/DS](https://ru.mitsubishielectric.com/fa/products/cnt/plc/plcf/cpu-module/fx5u-32mr-ds.html)
-3. [Шаблон для домашнего задания](https://docs.google.com/document/d/1Ty_ihzX2Vjiry2ofzjm-JnKu0PrN5B7710Sd26gCHDM/edit?usp=sharing)
+3. [Инструкция по созданию виртуальной машины](https://docs.google.com/presentation/d/1psnSlotXT7cr8ECnaZaTCDLnIyYOGUzCArLeydeRztY/edit?usp=sharing)
+4. [Шаблон для домашнего задания](https://docs.google.com/document/d/1Ty_ihzX2Vjiry2ofzjm-JnKu0PrN5B7710Sd26gCHDM/edit?usp=sharing)
 
 ------
 
