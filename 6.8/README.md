@@ -15,8 +15,11 @@ WAGO Kontakttechnik GmbH & Co. KG - немецкая компания, кото�
 -----
 
 ### Чеклист готовности к домашнему заданию
-1. Загрузите и установите [e!Cockpit](https://www.wago.com/global/automation-technology/discover-software/ecockpit-engineering-software).
-2. Загрузите и установите [Wago OPC](). Инструкция по установке и настройке Wago OPC находится в [этой инструкции](https://docs.google.com/presentation/d/1gcvhQg5i8dWWbnnyY142f3isnKolYBYFqGQjoDlnv-c/edit?usp=sharing).
+1. Загрузите и установите [e!Cockpit](https://www.wago.com/global/automation-technology/discover-software/ecockpit-engineering-software). Для этого воспользуйтесь [инструкцией по установке](https://docs.google.com/presentation/d/1Jmt4Dttp3hivysjXrigW5CE_Rli95uSTLSzjQJXd8jI/edit?usp=sharing).
+
+-----
+
+*ОБРАТИТЕ ВНИМАНИЕ! Устанавливается демо-версия программы. Её функционал будет ограничен спустя 30 дней после установки. Рекомендуется установка софта непосредственно перед выполнением задания!*
 
 -----
 
@@ -37,11 +40,9 @@ WAGO Kontakttechnik GmbH & Co. KG - немецкая компания, кото�
 
 1. [Google.Диск](https://drive.google.com/drive/my-drive)
 2. [e!Cockpit](https://www.wago.com/global/automation-technology/discover-software/ecockpit-engineering-software)
-3. [Wago OPC]()
-4. [Инструкция по установке и настройке Wago OPC](https://docs.google.com/presentation/d/1gcvhQg5i8dWWbnnyY142f3isnKolYBYFqGQjoDlnv-c/edit?usp=sharing)
-5. [Техническое задание для задния 2](https://docs.google.com/document/d/1b9OsczSGO3fWZx2KadYeBb4MLiCV6CIFLKp_3X1wh6M/edit?usp=sharing)
-6. [Шаблон спецификации для задния 2](https://docs.google.com/spreadsheets/d/1_dL_SjSLYplCc31x77owlD_Espv2Uh46QPZm7E5NCz0/edit?usp=sharing)
-7. [Шаблон для домашнего задания](https://docs.google.com/document/d/13PzU1SMaZkl5TRX6HUokMfLkDQ96c5fhIkhsnhFlIJA/edit?usp=sharing)
+3. [Техническое задание для задания 2](https://docs.google.com/document/d/1b9OsczSGO3fWZx2KadYeBb4MLiCV6CIFLKp_3X1wh6M/edit?usp=sharing)
+4. [Шаблон спецификации для задания 2](https://docs.google.com/spreadsheets/d/1_dL_SjSLYplCc31x77owlD_Espv2Uh46QPZm7E5NCz0/edit?usp=sharing)
+5. [Шаблон для домашнего задания](https://docs.google.com/document/d/13PzU1SMaZkl5TRX6HUokMfLkDQ96c5fhIkhsnhFlIJA/edit?usp=sharing)
 
 -----
 
@@ -55,6 +56,8 @@ WAGO Kontakttechnik GmbH & Co. KG - немецкая компания, кото�
 - модули вывода дискретных сигналов 8 DO
 - модули ввода аналоговых сигналов 4 AI
 - HMI панель.
+
+Подбирать оборудование необходимо на [сайте Wago](https://www.wago.com/global/products).
 
 Для понимания принципа и алгоритма работы объекта автоматизации изучите [техническое задание](https://docs.google.com/document/d/1b9OsczSGO3fWZx2KadYeBb4MLiCV6CIFLKp_3X1wh6M/edit?usp=sharing).
 
