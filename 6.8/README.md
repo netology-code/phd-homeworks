@@ -15,7 +15,7 @@ WAGO Kontakttechnik GmbH & Co. KG - немецкая компания, кото�
 -----
 
 ### Чеклист готовности к домашнему заданию
-1. Загрузите и установите [e!Cockpit](https://www.wago.com/global/automation-technology/discover-software/ecockpit-engineering-software). Для этого воспользуйтесь [инструкцией по установке](https://docs.google.com/presentation/d/1Jmt4Dttp3hivysjXrigW5CE_Rli95uSTLSzjQJXd8jI/edit?usp=sharing).
+1. Загрузите и установите [e!Cockpit](https://www.wago.com/global/automation-technology/discover-software/ecockpit-engineering-software). Для этого воспользуйтесь [инструкцией по установке](https://docs.google.com/presentation/d/1_OaCEODsBy4Re2Y8Echh7JpJKZ6uEyyfcZrBSPSRVC4/edit?usp=sharing).
 
 -----
 
@@ -40,8 +40,10 @@ WAGO Kontakttechnik GmbH & Co. KG - немецкая компания, кото�
 
 1. [Google.Диск](https://drive.google.com/drive/my-drive)
 2. [e!Cockpit](https://www.wago.com/global/automation-technology/discover-software/ecockpit-engineering-software)
-3. [Техническое задание для задания 2](https://docs.google.com/document/d/1b9OsczSGO3fWZx2KadYeBb4MLiCV6CIFLKp_3X1wh6M/edit?usp=sharing)
-4. [Шаблон спецификации для задания 2](https://docs.google.com/spreadsheets/d/1_dL_SjSLYplCc31x77owlD_Espv2Uh46QPZm7E5NCz0/edit?usp=sharing)
+3. [Инструкция по загрузке дистрибутива и установке ПО для PLC Wago](https://docs.google.com/presentation/d/1_OaCEODsBy4Re2Y8Echh7JpJKZ6uEyyfcZrBSPSRVC4/edit?usp=sharing)
+4. [Техническое задание](https://docs.google.com/document/d/1gHAzZ46aFw-KZi1Q6PSppUt9n3q1l1I8Im0_u9tvE0Y/edit?usp=sharing)
+5. [Шаблон спецификации](https://docs.google.com/spreadsheets/d/1_dL_SjSLYplCc31x77owlD_Espv2Uh46QPZm7E5NCz0/edit?usp=sharing)
+6. [Ссылка на сайт Wago для подбора оборудования](https://www.wago.com/global/products)
 5. [Шаблон для домашнего задания](https://docs.google.com/document/d/13PzU1SMaZkl5TRX6HUokMfLkDQ96c5fhIkhsnhFlIJA/edit?usp=sharing)
 
 -----
@@ -59,7 +61,7 @@ WAGO Kontakttechnik GmbH & Co. KG - немецкая компания, кото�
 
 Подбирать оборудование необходимо на [сайте Wago](https://www.wago.com/global/products).
 
-Для понимания принципа и алгоритма работы объекта автоматизации изучите [техническое задание](https://docs.google.com/document/d/1b9OsczSGO3fWZx2KadYeBb4MLiCV6CIFLKp_3X1wh6M/edit?usp=sharing).
+Для понимания принципа и алгоритма работы объекта автоматизации изучите [техническое задание](https://docs.google.com/document/d/1gHAzZ46aFw-KZi1Q6PSppUt9n3q1l1I8Im0_u9tvE0Y/edit?usp=sharing).
 
 *Результатом выполнения данного задания будет заполненная [спецификация](https://docs.google.com/spreadsheets/d/1_dL_SjSLYplCc31x77owlD_Espv2Uh46QPZm7E5NCz0/edit?usp=sharing) с комплектом подобранного оборудования. Для работы со спецификацией сохраните копию документа на свой диск*.
 
