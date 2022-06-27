@@ -15,7 +15,7 @@ WAGO Kontakttechnik GmbH & Co. KG - немецкая компания, кото�
 -----
 
 ### Чеклист готовности к домашнему заданию
-1. Загрузите и установите [e!Cockpit](https://www.wago.com/global/automation-technology/discover-software/ecockpit-engineering-software). Для этого воспользуйтесь [инструкцией по установке](https://docs.google.com/presentation/d/1_OaCEODsBy4Re2Y8Echh7JpJKZ6uEyyfcZrBSPSRVC4/edit?usp=sharing).
+Загрузите и установите [e!Cockpit](https://www.wago.com/global/automation-technology/discover-software/ecockpit-engineering-software). Для этого воспользуйтесь [инструкцией по установке](https://docs.google.com/presentation/d/1_OaCEODsBy4Re2Y8Echh7JpJKZ6uEyyfcZrBSPSRVC4/edit?usp=sharing).
 
 -----
 
