@@ -29,8 +29,8 @@
 2. [Шаблон спецификации](https://docs.google.com/spreadsheets/d/1MD1e1kSFqJS4lYMkl4x-gsKCMc4hCTmlS56KMYsTCFY/edit?usp=sharing)
 3. [Информация о кокильном производстве](https://stankiexpert.ru/spravochnik/litejjnoe-proizvodstvo/lite-v-kokil.html)
 4. Ссылки на оборудование поставщиков:
-- электротехнические компоненты [SCHNEIDER ELECTRIC](https://www.se.com/ru/ru/), [ABB](https://new.abb.com/ru).
-- элементы автоматики [Siemens](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru). 
+- электротехнические компоненты [SCHNEIDER ELECTRIC](https://www.se.com/ru/ru/), [ABB](https://new.abb.com/ru)
+- элементы автоматики [Siemens](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru)
 - устройства безопасности [PILZ](https://www.pilz.com/ru-RU), [EUCHNER](https://www.euchner.de/en-us/products/).
 5. [Шаблон для домашнего задания](https://docs.google.com/document/d/171ut1q_lTyu52_89I2xL6NLVGJp-JPn2LzWf4STI5v8/edit?usp=sharing).
 
@@ -43,7 +43,7 @@
 Используйте оборудование следующих поставщиков:
 - электротехнические компоненты [SCHNEIDER ELECTRIC](https://www.se.com/ru/ru/)
 - робототехнические компоненты [ABB](https://new.abb.com/ru)
-- устройства безопасности [PILZ](https://www.pilz.com/ru-RU), [EUCHNER](https://www.euchner.de/en-us/products/)
+- устройства безопасности [PILZ](https://www.pilz.com/ru-RU), [EUCHNER](https://www.euchner.de/en-us/products/).
 
 *Результатом выполнения данного задания будет заполненная [спецификация](https://docs.google.com/spreadsheets/d/1MD1e1kSFqJS4lYMkl4x-gsKCMc4hCTmlS56KMYsTCFY/edit?usp=sharing) с комплектом подобранного оборудования. Для работы со спецификацией сохраните копию документа на свой диск*.
 
