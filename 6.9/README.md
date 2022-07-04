@@ -25,7 +25,7 @@
 -----
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
-1. [Техническое задание](https://docs.google.com/document/d/1r3toihzr4MMN7yzaPeYe20qSp70czNYS03EUMSATQRw/edit?usp=sharing)
+1. [Техническое задание](https://docs.google.com/document/d/1FHFKGKCQ0iHJqQMH831Rd3NkUblIjCxrbyeLUxHmWTA/edit?usp=sharing)
 2. [Шаблон спецификации](https://docs.google.com/spreadsheets/d/1MD1e1kSFqJS4lYMkl4x-gsKCMc4hCTmlS56KMYsTCFY/edit?usp=sharing)
 3. [Информация о кокильном производстве](https://stankiexpert.ru/spravochnik/litejjnoe-proizvodstvo/lite-v-kokil.html)
 4. Ссылки на оборудование поставщиков:
@@ -39,7 +39,7 @@
 ### Задание 1
 Руководство завода поставило перед службой эксплуатации и внедрения АСУ ТП разработать комплекс мер по автоматизации производственных процессов. Одной из первостепенных задач является внедрение АСУ ТП [кокильного производства](https://stankiexpert.ru/spravochnik/litejjnoe-proizvodstvo/lite-v-kokil.html). Для выполнения этой задачи необходимо спроектировать АСУ ТП литья алюминия в кокили.
 
-Подберите требуемое оборудование для создания АСУ ТП. Для этого изучите [техническое задание](https://docs.google.com/document/d/1r3toihzr4MMN7yzaPeYe20qSp70czNYS03EUMSATQRw/edit?usp=sharing).
+Подберите требуемое оборудование для создания АСУ ТП. Для этого изучите [техническое задание](https://docs.google.com/document/d/1FHFKGKCQ0iHJqQMH831Rd3NkUblIjCxrbyeLUxHmWTA/edit?usp=sharing).
 Используйте оборудование следующих поставщиков:
 - электротехнические компоненты [SCHNEIDER ELECTRIC](https://www.se.com/ru/ru/)
 - робототехнические компоненты [ABB](https://new.abb.com/ru)
