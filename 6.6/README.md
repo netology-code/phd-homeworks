@@ -39,7 +39,7 @@ TIA Portal (Totally Integrated Automation Portal) — интегрированн
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1VSoDTOQOAAK7Cf57UK8GKuwaET0v4ySjps8JN1sB3vE/edit?usp=sharingg) себе на Google Disk.
+1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1gcWwUbx4j998PJS9roM0o63ZszEIejj7Jj4mrnrBr18/edit?usp=sharing) себе на Google Диск.
 2. В названии файла введите корректное название лекции и вашу фамилию и имя.
 3. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop)
 4. Скопируйте текст задания в свой документ.
@@ -53,7 +53,7 @@ TIA Portal (Totally Integrated Automation Portal) — интегрированн
 
 1. [TIA Portal v13](https://support.industry.siemens.com/cs/document/78793685/simatic-step-7-(tia-portal)-v13-trial-download?dti=0&lc=en-DE)
 2. [Инструкция по созданию виртуальной машины](https://docs.google.com/presentation/d/1psnSlotXT7cr8ECnaZaTCDLnIyYOGUzCArLeydeRztY/edit?usp=sharing)
-3. [Шаблон для домашнего задания](https://docs.google.com/document/d/1VSoDTOQOAAK7Cf57UK8GKuwaET0v4ySjps8JN1sB3vE/edit?usp=sharingg)
+3. [Шаблон для домашнего задания](https://docs.google.com/document/d/1gcWwUbx4j998PJS9roM0o63ZszEIejj7Jj4mrnrBr18/edit?usp=sharing)
 
 ------
 
@@ -95,7 +95,7 @@ TIA Portal (Totally Integrated Automation Portal) — интегрированн
 ### Правила приёма работы
 
 1. Отправлена ссылка на документ (Google Doc) с выполненным заданием в личном кабинете
-2. Документ размещен на личном Google Disk
+2. Документ размещён на личном Google Диске
 3. К документу настроены права доступа «Просматривать могут все в Интернете, у кого есть ссылка».
 
 ------
