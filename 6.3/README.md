@@ -23,7 +23,7 @@
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1DG4TilKWQsFqUo_LnuDtoOEekD9wh_3OiBFkrkHN5Wo/edit?usp=sharing) себе на Google Disk.
+1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1mjdUlFOYwbHbsFMaw5j00Hj7uYK84-onSI-JmIX4f1M/edit?usp=sharing) себе на Google Диск.
 2. В названии файла введите корректное название лекции и вашу фамилию и имя.
 3. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию Как предоставить доступ к файлам и папкам на Google Диске.
 4. Скопируйте текст задания в свой документ.
@@ -39,7 +39,7 @@
 2. [Каталог](https://e-catalogue.legrand.ru/catalog/silovoe-i-zashchitno-kommutatsionnoe-oborudovanie/ctx-sup3-promyshlennye-kontaktory/trekhpolyusnye-promyshlennye-kontaktory-ctx-sup3/ "Каталог пускателей") пускателей (контакторов).
 2. [Каталог](https://www.siemens-ru.com/taxonomy/term/289 "Каталог Преобразователей частоты") частотных преобразователей Siemens. 
 3. [Техзадание](https://docs.google.com/document/d/1TmWtAenr3f72ayAz6cu18-bOUhQRqqcRWHZ82FtJMzM/edit?usp=sharing "Техзадание")
-4. [Шаблон для домашнего задания](https://docs.google.com/document/d/1DG4TilKWQsFqUo_LnuDtoOEekD9wh_3OiBFkrkHN5Wo/edit?usp=sharing) 
+4. [Шаблон для домашнего задания](https://docs.google.com/document/d/1mjdUlFOYwbHbsFMaw5j00Hj7uYK84-onSI-JmIX4f1M/edit?usp=sharing) 
 
 ------
 
@@ -66,7 +66,7 @@
 ### Правила приёма работы
 
 1. Отправлена ссылка на документ (Google Doc) с выполненным заданием в личном кабинете
-2. Документ размещен на личном Google Disk
+2. Документ размещён на личном Google Диске
 3. К документу настроены права доступа «Просматривать могут все в Интернете, у кого есть ссылка»
 
 ------
