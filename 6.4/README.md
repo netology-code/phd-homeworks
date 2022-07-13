@@ -25,7 +25,7 @@
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1Ty_ihzX2Vjiry2ofzjm-JnKu0PrN5B7710Sd26gCHDM/edit?usp=sharing) себе на Google Disk.
+1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1Juj6Ub5v7USZ3zcCm4M0S-PdzCoP5TbfH3s8U8Fu7oA/edit?usp=sharing) себе на Google Диск.
 2. В названии файла введите корректное название лекции и вашу фамилию и имя.
 3. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка».
  Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop)
@@ -44,7 +44,7 @@
 - [Schneider Electric M221-16IO](https://www.se.com/ru/ru/product/download-pdf/TM221CE16R)
 - [Mitsubishi Electric FX5U-32MR/DS](https://ru.mitsubishielectric.com/fa/products/cnt/plc/plcf/cpu-module/fx5u-32mr-ds.html)
 3. [Инструкция по созданию виртуальной машины](https://docs.google.com/presentation/d/1psnSlotXT7cr8ECnaZaTCDLnIyYOGUzCArLeydeRztY/edit?usp=sharing)
-4. [Шаблон для домашнего задания](https://docs.google.com/document/d/1Ty_ihzX2Vjiry2ofzjm-JnKu0PrN5B7710Sd26gCHDM/edit?usp=sharing)
+4. [Шаблон для домашнего задания](https://docs.google.com/document/d/1Juj6Ub5v7USZ3zcCm4M0S-PdzCoP5TbfH3s8U8Fu7oA/edit?usp=sharing)
 
 ------
 
@@ -84,7 +84,7 @@
 ### Правила приёма работы
 
 1. Отправлена ссылка на документ (Google Doc) с выполненным заданием в личном кабинете.
-2. Документ размещен на личном Google Disk.
+2. Документ размещён на личном Google Диске.
 3. К документу настроены права доступа «Просматривать могут все в Интернете, у кого есть ссылка».
 
 ------
