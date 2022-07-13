@@ -25,7 +25,7 @@
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/160tBnjuFcjFOemMoznURI9OQNTR5i9XMYsa5WvEXHlM/edit?usp=sharing) себе на Google Disk.
+1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1JzKdVrCtsJI2SSeLnUb3qOxou1Ag39Umbd__BDpFP6o/edit?usp=sharing) себе на Google Диск.
 2. В названии файла введите корректное название лекции и вашу фамилию и имя.
 3. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка».
  Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop)
@@ -40,7 +40,7 @@
 
 1. [TIA Portal 13](https://support.industry.siemens.com/cs/document/109745155/simatic-step-7-including-plcsim-v13-sp2-trial-download?dti=0&lc=en-WW)
 2. [Инструкция по созданию виртуальной машины](https://docs.google.com/presentation/d/1psnSlotXT7cr8ECnaZaTCDLnIyYOGUzCArLeydeRztY/edit?usp=sharing)
-3. [Шаблон для домашнего задания](https://docs.google.com/document/d/160tBnjuFcjFOemMoznURI9OQNTR5i9XMYsa5WvEXHlM/edit?usp=sharing)
+3. [Шаблон для домашнего задания](https://docs.google.com/document/d/1JzKdVrCtsJI2SSeLnUb3qOxou1Ag39Umbd__BDpFP6o/edit?usp=sharing)
 
 ------
 
@@ -80,7 +80,7 @@
 ### Правила приёма работы
 
 1. Отправлена ссылка на документ (Google Doc) с выполненным заданием в личном кабинете.
-2. Документ размещен на личном Google Disk.
+2. Документ размещён на личном Google Диске.
 3. К документу настроены права доступа «Просматривать могут все в Интернете, у кого есть ссылка».
 
 ------
