@@ -21,7 +21,7 @@
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/10gPSeAneOJgzWHZdeK1oHMlTghpS5tzVsMMCmPU1hm4/edit?usp=sharing) себе на Google Disk.
+1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1DBm40bFEv5lEkbDUZaM7td6fIV0xDqvstCovWVoxZdA/edit?usp=sharing) себе на Google Диск.
 2. В названии файла введите корректное название лекции и вашу фамилию и имя.
 3. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию Как предоставить доступ к файлам и папкам на Google Диске.
 4. Скопируйте текст задания в свой документ.
@@ -39,7 +39,7 @@
 2. [Каталог](https://leuze.ru/ "Каталог LEUZE") оптических датчиков, фотобарьеров, устройств безопасности.
 2. [Каталог](https://rumatika.ru/catalog/euchner/mnogofunkcionalnaya-kalitka-mgb "Каталог EUCHNER") устройств безопасности, концевых выключателей, панелей доступа. 
 3. [Техзадание](https://docs.google.com/document/d/1JViB42ldJxdsu4Jjn5vhJJIEsWHYM4DKEJGHLvhWQ98/edit?usp=sharing "Техзадание")
-4. [Шаблон для домашнего задания](https://docs.google.com/document/d/10gPSeAneOJgzWHZdeK1oHMlTghpS5tzVsMMCmPU1hm4/edit?usp=sharing) 
+4. [Шаблон для домашнего задания](https://docs.google.com/document/d/1DBm40bFEv5lEkbDUZaM7td6fIV0xDqvstCovWVoxZdA/edit?usp=sharing) 
 
 
 
@@ -74,8 +74,8 @@
 ### Правила приёма работы
 
 1. Отправлена ссылка на документ (Google Doc) с выполненным заданием в личном кабинете
-2. Документ размещен на личном Google Disk
-3. К документу настроены права доступа “Просматривать могут все в Интернете, у кого есть ссылка”
+2. Документ размещён на личном Google Диске
+3. К документу настроены права доступа «Просматривать могут все в Интернете, у кого есть ссылка»
 
 ------
 
