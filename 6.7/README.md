@@ -20,7 +20,7 @@
 
 ### Инструкция к заданию
 1. Выполните установку необходимых программных инструментов из **Чеклиста готовности к домашнему заданию**.
-2. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1dU6WBvn5AKvY8BglrJ7EhkWwUVFJWSdKmuWryiGoQvA/edit?usp=sharing) себе на Google Disk.
+2. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1R6ExltvOArFA8VOiNQnXT4XoxNyYFmrE4nnmyHmM0NI/edit?usp=sharing) себе на Google Диск.
 3. В названии файла введите вашу фамилию и имя.
 4. Зайдите в «Настройки доступа» скопированного вами шаблона и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию Как предоставить доступ к файлам и папкам на Google Диске.
 5. Скопируйте текст задания в свой документ.
@@ -40,7 +40,7 @@
 5. [Инструкция по установке и настройке ОВЕН OPC](https://docs.google.com/presentation/d/17y1o9sd37TdxqXJT7Jly9mM31kDaEuZpYkmKrzWOj1Y/edit?usp=sharing).
 6. [Техническое задание](https://docs.google.com/document/d/1tvL5GHMFc6M52DuMWpGlFlc_Yxgmg3JFYjHh0-HFBbQ/edit?usp=sharing).
 7. [Шаблон спецификации](https://docs.google.com/spreadsheets/d/12CCWojuBL6S2qRvUdwX1AmdFzx92rlQ9OMwxiN9qGI0/edit?usp=sharing).
-8. [Шаблон для домашнего задания](https://docs.google.com/document/d/1dU6WBvn5AKvY8BglrJ7EhkWwUVFJWSdKmuWryiGoQvA/edit?usp=sharing).
+8. [Шаблон для домашнего задания](https://docs.google.com/document/d/1R6ExltvOArFA8VOiNQnXT4XoxNyYFmrE4nnmyHmM0NI/edit?usp=sharing).
 
 -----
 
@@ -78,7 +78,7 @@
 
 *Результатом выполнения данного задания будет проект, разработанный в среде Owen Logic, работающий в соответствии с заданным алгоритмом*. 
 
-### Задание 3* (Необязательное)
+### Задание 3* (необязательное)
 
 Настройте связь написанного алгоритма в среде OWEN Logic с OPC-сервером ОВЕН.
 
@@ -99,7 +99,7 @@
 
 ### Правила приёма работы
 1. Ссылка на документ (Google Doc) с выполненным заданием в личном кабинете.
-2. Документ размещён на личном Google Disk.
+2. Документ размещён на личном Google Диске.
 3. К документу настроены права доступа «Просматривать могут все в Интернете, у кого есть ссылка».
 
 -----
