@@ -21,7 +21,7 @@
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1kII1Hxgb90OBybWrg2cLtfM2Uu5OLUSKZJ8wEk8xZR8/edit?usp=sharing "Шаблон") себе на Google Disk.
+1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1OCdJdViEGOcosXKBcB6KrDp8l_r3lXQWB67HBZAdBpA/edit?usp=sharing "Шаблон") себе на Google Диск.
 2. В названии файла введите корректное название лекции и вашу фамилию и имя
 3. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию Как предоставить доступ к файлам и папкам на Google Диске
 4. Скопируйте текст задания в свой документ
@@ -39,7 +39,7 @@
 2. [Каталог](https://owen.ru/ "Каталог OWEN") производителя датчиков температуры, давления, уровня, индуктивных сенсоров
 3. [Техзадание для задания 1](https://docs.google.com/document/d/1ISA2-taWlzi9mr5L3wI77xyQzEaZYVVbh7V6OBn7H7A/edit?usp=sharing)
 4. [Техзадание для задания 2](https://docs.google.com/document/d/1nH05HaEzej4GavzxBRgfUAYoYd3q8Hzya03ghdpb-Xs/edit?usp=sharing)
-5. [Шаблон для домашнего задания](https://docs.google.com/document/d/1kII1Hxgb90OBybWrg2cLtfM2Uu5OLUSKZJ8wEk8xZR8/edit?usp=sharing "Шаблон")
+5. [Шаблон для домашнего задания](https://docs.google.com/document/d/1OCdJdViEGOcosXKBcB6KrDp8l_r3lXQWB67HBZAdBpA/edit?usp=sharing "Шаблон")
 
 
 ------
@@ -55,7 +55,7 @@
 
 ------
 
-### Задание 2* (Необязательное для выполнения)
+### Задание 2* (необязательное)
 
 1. Изучите [техзадание](https://docs.google.com/document/d/1nH05HaEzej4GavzxBRgfUAYoYd3q8Hzya03ghdpb-Xs/edit?usp=sharing)
 2. Ознакомьтесь с каталогами поставщиков, указанных выше
@@ -68,7 +68,7 @@
 ### Правила приёма работы
 
 1. Отправлена ссылка на документ (Google Doc) с выполненным заданием в личном кабинете
-2. Документ размещен на личном Google Disk
+2. Документ размещён на личном Google Диске
 3. К документу настроены права доступа «Просматривать могут все в Интернете, у кого есть ссылка»
 
 
