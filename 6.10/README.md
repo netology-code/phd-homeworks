@@ -15,18 +15,18 @@
 ### Чеклист готовности к домашнему заданию
 
 1. Зарегистрируйтесь на [портале Siemens](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru) и получите персональный логин и пароль для входа в систему. Процесс регистрации описан в [соответствующей инструкции](https://docs.google.com/presentation/d/1RPHvCE2OxBbHRMWSAV2E-HxscZvR2nRIZVHCy8hvjJE/edit?usp=sharing).
-2. Загрузите и установите программное обеспечение для создания проекта PLC Siemens, входящее в состав пакета TIA Portal с [официального ресурса Siemens](https://support.industry.siemens.com/cs/document/78793685/simatic-step-7-(tia-portal)-v13-trial-download?dti=0&lc=en-DE):
+2. Загрузите и установите программное обеспечение для создания проекта PLC Siemens, входящее в состав пакета TIA Portal с [официального ресурса Siemens](https://support.industry.siemens.com/cs/document/109772803/simatic-step-7-incl-safety-and-wincc-v16-trial-download?dti=0&lc=en-KW):
 
 <details>
   <summary> Подсказка по установке (доступна по клику) </summary>
 
-1. Скачайте все файлы по [ссылке](https://support.industry.siemens.com/cs/document/109745155/simatic-step-7-including-plcsim-v13-sp2-trial-download?dti=0&lc=en-DE) в две отдельные папки:
-  - STEP 7 Professional V13 SP2 (DVD 1, DVD 2, SHA-256 checksum)
-  ![image](https://github.com/netology-code/phd-homeworks/blob/main/6.6/Step7_1.png)
-  - SIMATIC STEP 7 PLCSIM V13 SP2 for STEP 7 Basic and STEP 7 Professional (включая SHA-256 checksum)
-    ![image](https://github.com/netology-code/phd-homeworks/blob/main/6.6/Step7_2.png)
-2. Запустите установочный файл SIMATIC_STEP_7_Professional_V13_SP2_Upd4.exe, пройдите стандартную процедуру установки.
-3. Запустите установочный файл SIMATIC_S7_PLCSIM_V13_SP2.exe, пройдите стандартную процедуру установки.
+1. Скачайте все файлы по [ссылке](https://support.industry.siemens.com/cs/document/109772803/simatic-step-7-incl-safety-and-wincc-v16-trial-download?dti=0&lc=en-KW) в две отдельные папки:
+  - STEP 7 Professional V16 SP2 (DVD 1, DVD 2, SHA-256 checksum)
+  ![image](https://github.com/netology-code/phd-homeworks/blob/main/6.10/Step7v16_1.png)
+  - SIMATIC STEP 7 PLCSIM V16 SP2 for STEP 7 Basic and STEP 7 Professional (включая SHA-256 checksum)
+    ![image](https://github.com/netology-code/phd-homeworks/blob/main/6.10/Step7v16_2.png)
+2. Запустите установочный файл TIA_Portal_Step7_Prof_Safety_WINCC_Adv_Unified_V16.exe, пройдите стандартную процедуру установки.
+3. Запустите установочный файл SIMATIC_S7PLCSIM_V16.exe, пройдите стандартную процедуру установки.
 
   -----
   
@@ -50,7 +50,7 @@
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [TIA Portal v13](https://support.industry.siemens.com/cs/document/78793685/simatic-step-7-(tia-portal)-v13-trial-download?dti=0&lc=en-DE)
+1. [TIA Portal v16](https://support.industry.siemens.com/cs/document/109772803/simatic-step-7-incl-safety-and-wincc-v16-trial-download?dti=0&lc=en-KW)
 2. [Инструкция по созданию виртуальной машины](https://docs.google.com/presentation/d/1psnSlotXT7cr8ECnaZaTCDLnIyYOGUzCArLeydeRztY/edit?usp=sharing)
 3. [Шаблон для домашнего задания](https://docs.google.com/document/d/1X2weGsupGCGdfA4s8UwRWSkwX5YV9FFcSY3DhIhu3QY/edit?usp=sharing)
 
