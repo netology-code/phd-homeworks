@@ -30,8 +30,8 @@
 3. [Информация о кокильном производстве](https://stankiexpert.ru/spravochnik/litejjnoe-proizvodstvo/lite-v-kokil.html)
 4. Ссылки на оборудование поставщиков:
 - электротехнические компоненты [SCHNEIDER ELECTRIC](https://www.se.com/ru/ru/), [ABB](https://new.abb.com/ru)
-- элементы автоматики [Siemens](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru)
-- устройства безопасности [PILZ](https://www.pilz.com/ru-RU), [EUCHNER](https://www.euchner.de/en-us/products/).
+- устройства безопасности [PILZ](https://www.pilz.com/ru-RU), [EUCHNER](https://www.euchner.de/en-us/products/)
+- частотные преобразователи, приводная техника [DANFOSS](https://open.danfoss.ru/).
 5. [Шаблон для домашнего задания](https://docs.google.com/document/d/171ut1q_lTyu52_89I2xL6NLVGJp-JPn2LzWf4STI5v8/edit?usp=sharing).
 
 -----
@@ -39,13 +39,26 @@
 ### Задание 1
 Руководство завода поставило перед службой эксплуатации и внедрения АСУ ТП разработать комплекс мер по автоматизации производственных процессов. Одной из первостепенных задач является внедрение АСУ ТП [кокильного производства](https://stankiexpert.ru/spravochnik/litejjnoe-proizvodstvo/lite-v-kokil.html). Для выполнения этой задачи необходимо спроектировать АСУ ТП литья алюминия в кокили.
 
-Подберите требуемое оборудование для создания АСУ ТП. Для этого изучите [техническое задание](https://docs.google.com/document/d/1FHFKGKCQ0iHJqQMH831Rd3NkUblIjCxrbyeLUxHmWTA/edit?usp=sharing).
-Используйте оборудование следующих поставщиков:
-- электротехнические компоненты [SCHNEIDER ELECTRIC](https://www.se.com/ru/ru/)
-- робототехнические компоненты [ABB](https://new.abb.com/ru)
-- устройства безопасности [PILZ](https://www.pilz.com/ru-RU), [EUCHNER](https://www.euchner.de/en-us/products/).
+1. Подберите требуемое оборудование для создания АСУ ТП. Для этого изучите [техническое задание](https://docs.google.com/document/d/1FHFKGKCQ0iHJqQMH831Rd3NkUblIjCxrbyeLUxHmWTA/edit?usp=sharing).
 
-*Результатом выполнения данного задания будет заполненная [спецификация](https://docs.google.com/spreadsheets/d/1MD1e1kSFqJS4lYMkl4x-gsKCMc4hCTmlS56KMYsTCFY/edit?usp=sharing) с комплектом подобранного оборудования. Для работы со спецификацией сохраните копию документа на свой диск*.
+Используйте оборудование следующих поставщиков:
+- электротехнические компоненты [SCHNEIDER ELECTRIC](https://www.se.com/ru/ru/), [ABB](https://new.abb.com/ru)
+- устройства безопасности [PILZ](https://www.pilz.com/ru-RU), [EUCHNER](https://www.euchner.de/en-us/products/)
+- частотные преобразователи, приводная техника [DANFOSS](https://open.danfoss.ru/).
+
+2. Заполните спецификацию по категориям оборудования:
+- **Монтажные элементы (клеммные колодки, крепления**)
+- **Автоматические выключатели,УЗО/УЗИП, дифавтоматы**
+- **Блоки питания, ИБП**
+- **PLC/HMI**
+- **Модули входных/выходных сигналов**
+- **Корпус электрического шкафа**
+- **Интерфейсные элементы**
+- **Кнопки, переключатели**.
+
+3. Добавьте во вкладку **МОДЕЛЬ ШКАФА** спроектированную вами модель размещения элементов внутри шкафа, выполненную в любом графическом редакторе (формат .jpeg, .jpg, .png). Пример модели вы сможете найти в [техническом задании](https://docs.google.com/document/d/1FHFKGKCQ0iHJqQMH831Rd3NkUblIjCxrbyeLUxHmWTA/edit?usp=sharing).
+
+*Результатом выполнения данного задания будет заполненная [спецификация](https://docs.google.com/spreadsheets/d/1MD1e1kSFqJS4lYMkl4x-gsKCMc4hCTmlS56KMYsTCFY/edit?usp=sharing) с комплектом подобранного оборудования и моделью размещения элементов. Для работы со спецификацией сохраните копию документа на свой диск*.
 
 -----
 
