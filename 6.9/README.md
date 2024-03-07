@@ -37,7 +37,7 @@
 ### Задание 1
 Руководство завода поставило перед службой эксплуатации и внедрения АСУ ТП задачу — разработать комплекс мер по автоматизации производственных процессов. В первую очередь нужно внедрить АСУ ТП [кокильного производства](https://stankiexpert.ru/spravochnik/litejjnoe-proizvodstvo/lite-v-kokil.html). Для этого нужно  спроектировать АСУ ТП литья алюминия в кокили.
 
-Подберите оборудование для создания АСУ ТП. Для этого изучите [техническое задание](https://docs.google.com/document/d/1FHFKGKCQ0iHJqQMH831Rd3NkUblIjCxrbyeLUxHmWTA/edit?usp=sharing).
+Подберите оборудование для создания АСУ ТП. Для этого изучите [техническое задание](https://u.netology.ru/backend/uploads/lms/content_assets/file/5521/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx).
 Используйте оборудование поставщиков:
 
 - электротехнические компоненты [SCHNEIDER ELECTRIC](https://www.se.com/ru/ru/),
