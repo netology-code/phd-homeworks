@@ -44,7 +44,7 @@
 - робототехнические компоненты [ABB](https://new.abb.com/ru),
 - устройства безопасности [PILZ](https://www.pilz.com/ru-RU), [EUCHNER](https://www.euchner.de/en-us/products/).
 
-*Заполните [спецификацию](https://docs.google.com/spreadsheets/d/1MD1e1kSFqJS4lYMkl4x-gsKCMc4hCTmlS56KMYsTCFY/edit?usp=sharing) с комплектом подобранного оборудования. Для работы со спецификацией сохраните копию документа на свой диск*.
+*Заполните [спецификацию](https://u.netology.ru/backend/uploads/lms/content_assets/file/5522/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.xlsx) с комплектом подобранного оборудования. Для работы со спецификацией сохраните копию документа на свой диск*.
 
 -----
 
