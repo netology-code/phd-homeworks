@@ -13,7 +13,7 @@
 
 ### Чеклист готовности к домашнему заданию
 
-1. Зарегистрируйтесь на [портале Siemens](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru) и получите персональный логин и пароль для входа в систему. Процесс регистрации описан в [инструкции](https://docs.google.com/presentation/d/1RPHvCE2OxBbHRMWSAV2E-HxscZvR2nRIZVHCy8hvjJE/edit?usp=sharing).
+1. Зарегистрируйтесь на [портале Siemens](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru) и получите персональный логин и пароль для входа в систему. Процесс регистрации описан в [инструкции](https://u.netology.ru/backend/uploads/lms/content_assets/file/338/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B5_Siemens.pptx).
 2. Загрузите и установите программное обеспечение для создания проекта, входящее в состав пакета TIA Portal с [официального ресурса Siemens](https://support.industry.siemens.com/cs/document/78793685/simatic-step-7-(tia-portal)-v13-trial-download?dti=0&lc=en-DE).
 3. Для этого скачайте все файлы STEP 7 Professional V13 SP2 (DVD 1, DVD 2, SHA-256 checksum) по ссылке в отдельную папку.
 4. Затем запустите SIMATIC_STEP_7_Professional_V13_SP2_Upd4.exe.
