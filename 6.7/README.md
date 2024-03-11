@@ -19,7 +19,7 @@
 ### Инструкция к заданию
 
 1. Выполните установку программных инструментов из **чеклиста готовности к домашнему заданию**.
-2. Сделайте копию [шаблона для домашнего задания](https://docs.google.com/document/d/1R6ExltvOArFA8VOiNQnXT4XoxNyYFmrE4nnmyHmM0NI/copy) себе на Google-диск.
+2. Сделайте копию [шаблона для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/6209/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__PLC_%D0%9E%D0%B2%D0%B5%D0%BD__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx) себе на Google-диск.
 3. В названии файла введите вашу фамилию и имя.
 4. Зайдите в «Настройки доступа» скопированного вами шаблона и выберите доступ «Просматривать могут все в интернете, у кого есть ссылка». Ссылка на инструкцию Как предоставить доступ к файлам и папкам на Google Диске.
 5. Скопируйте текст задания в свой документ.
@@ -35,8 +35,8 @@
 1. [Каталог ОВЕН](https://owen.ru/).
 2. [OWEN Logic](https://owen.ru/product/programmnoe_obespechenie_owen_logic).
 3. [Техническое задание](https://docs.google.com/document/d/1tvL5GHMFc6M52DuMWpGlFlc_Yxgmg3JFYjHh0-HFBbQ).
-4. [Шаблон спецификации](https://docs.google.com/spreadsheets/d/12CCWojuBL6S2qRvUdwX1AmdFzx92rlQ9OMwxiN9qGI0/copy).
-5. [Шаблон для домашнего задания](https://docs.google.com/document/d/1R6ExltvOArFA8VOiNQnXT4XoxNyYFmrE4nnmyHmM0NI/copy).
+4. [Шаблон спецификации](https://u.netology.ru/backend/uploads/lms/content_assets/file/6210/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.xlsx).
+5. [Шаблон для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/6209/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__PLC_%D0%9E%D0%B2%D0%B5%D0%BD__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx).
 
 -----
 
@@ -50,7 +50,7 @@
 
 Подберите оборудование в соответствии с [техническим заданием](https://docs.google.com/document/d/1tvL5GHMFc6M52DuMWpGlFlc_Yxgmg3JFYjHh0-HFBbQ).
 
-*В результате задания у вас будет заполненная [спецификация](https://docs.google.com/spreadsheets/d/12CCWojuBL6S2qRvUdwX1AmdFzx92rlQ9OMwxiN9qGI0/copy) с комплектом подобранного оборудования. Для работы со спецификацией сохраните копию документа на свой диск*.
+*В результате задания у вас будет заполненная [спецификация](https://u.netology.ru/backend/uploads/lms/content_assets/file/6210/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.xlsx) с комплектом подобранного оборудования. Для работы со спецификацией сохраните копию документа на свой диск*.
 
 -----
 
