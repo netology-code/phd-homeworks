@@ -19,13 +19,13 @@
 4. Затем запустите SIMATIC_STEP_7_Professional_V13_SP2_Upd4.exe.
 5. После пройдите стандартную процедуру установки.
 
-*Обратите внимание. Устанавливается демо-версия программы. Через 21 день её функционал будет ограничен. Рекомендуется установка софта на виртуальной машине. Как это сделать, описано в [инструкции](https://docs.google.com/presentation/d/1psnSlotXT7cr8ECnaZaTCDLnIyYOGUzCArLeydeRztY/edit?usp=sharing).*
+*Обратите внимание. Устанавливается демо-версия программы. Через 21 день её функционал будет ограничен. Рекомендуется установка софта на виртуальной машине. Как это сделать, описано в [инструкции](https://u.netology.ru/backend/uploads/lms/content_assets/file/339/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E_%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B_%D0%B8_%D0%BE%D1%82%D0%BA%D0%B0%D1%82%D1%83.pptx).*
 
 ------
 
 ### Инструкция к заданию
 
-1. Сделайте копию [шаблона для домашнего задания](https://docs.google.com/document/d/1Juj6Ub5v7USZ3zcCm4M0S-PdzCoP5TbfH3s8U8Fu7oA/edit?usp=sharing) себе на Google Диск.
+1. Сделайте копию [шаблона для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/340/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D0%B5%D1%80%D1%8B_%D0%90%D0%A1%D0%A3_%D0%A2%D0%9F__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx) себе на Google Диск.
 2. В названии файла напишите название лекции и ваши фамилию и имя.
 3. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в интернете, у кого есть ссылка».
  Ссылка на инструкцию [«Как предоставить доступ к файлам и папкам на Google Диске»](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop).
@@ -40,8 +40,8 @@
 
 1. [TIA Portal 13.](https://support.industry.siemens.com/cs/document/109745155/simatic-step-7-including-plcsim-v13-sp2-trial-download?dti=0&lc=en-WW)
 2. CPU различных производителей: [Allen-Bradley Micro820 20 Point 2080-LC20-20QBB(R)](https://klinkmann.ru/download/?file=7961&el=17586&section=rockwell-automation), [Schneider Electric M221-16IO](https://www.se.com/ru/ru/product/download-pdf/TM221CE16R), [Mitsubishi Electric FX5U-32MR/DS](https://ru.mitsubishielectric.com/fa/products/cnt/plc/plcf/cpu-module/fx5u-32mr-ds.html).
-3. [Инструкция по созданию виртуальной машины.](https://docs.google.com/presentation/d/1psnSlotXT7cr8ECnaZaTCDLnIyYOGUzCArLeydeRztY/edit?usp=sharing)
-4. [Шаблон для домашнего задания.](https://docs.google.com/document/d/1Juj6Ub5v7USZ3zcCm4M0S-PdzCoP5TbfH3s8U8Fu7oA/edit?usp=sharing)
+3. [Инструкция по созданию виртуальной машины.](https://u.netology.ru/backend/uploads/lms/content_assets/file/339/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E_%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B_%D0%B8_%D0%BE%D1%82%D0%BA%D0%B0%D1%82%D1%83.pptx)
+4. [Шаблон для домашнего задания.](https://u.netology.ru/backend/uploads/lms/content_assets/file/340/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D0%B5%D1%80%D1%8B_%D0%90%D0%A1%D0%A3_%D0%A2%D0%9F__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx)
 
 ------
 
