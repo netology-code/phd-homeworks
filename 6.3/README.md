@@ -38,8 +38,7 @@
 
 ### Инструменты и дополнительные материалы для задания
 
-1. [Каталог](https://phoenix-contact.ru/catalog/releynye_moduli/ "Каталог Реле") реле.
-2. [Каталог](https://e-catalogue.legrand.ru/catalog/silovoe-i-zashchitno-kommutatsionnoe-oborudovanie/ctx-sup3-promyshlennye-kontaktory/trekhpolyusnye-promyshlennye-kontaktory-ctx-sup3/ "Каталог пускателей") пускателей (контакторов).
+1. [Каталог]([https://phoenix-contact.ru/catalog/releynye_moduli/ "Каталог Реле"](https://www.chipdip.ru/catalog)) реле и пускателей (контакторов).
 2. [Каталог](https://www.siemens-ru.com/taxonomy/term/289 "Каталог Преобразователей частоты") частотных преобразователей Siemens. 
 3. [Техзадание.](https://u.netology.ru/backend/uploads/lms/content_assets/file/5376/%D0%A2%D0%B5%D1%85%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx)
 4. [Шаблон для домашнего задания.](https://u.netology.ru/backend/uploads/lms/content_assets/file/5375/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8_%D0%B8_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D1%8B_%D0%A7%D0%B0%D1%81%D1%82%D1%8C_3__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx) 
@@ -59,7 +58,7 @@
 ### Задание 2
 
 1. Изучите [техзадание.](https://u.netology.ru/backend/uploads/lms/content_assets/file/5376/%D0%A2%D0%B5%D1%85%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx)
-2. Ознакомьтесь с каталогами поставщиков — [реле](https://phoenix-contact.ru/catalog/releynye_moduli/ "Каталог Реле"), [пускателей (контакторов)](https://e-catalogue.legrand.ru/catalog/silovoe-i-zashchitno-kommutatsionnoe-oborudovanie/ctx-sup3-promyshlennye-kontaktory/trekhpolyusnye-promyshlennye-kontaktory-ctx-sup3/ "Каталог пускателей"), [частотных преобразователей](https://www.siemens-ru.com/taxonomy/term/289 "Каталог Преобразователей частоты").
+2. Ознакомьтесь с каталогами поставщиков — [реле и пускатели (контакторов)](https://www.chipdip.ru/catalog), [частотных преобразователей](https://www.siemens-ru.com/taxonomy/term/289 "Каталог Преобразователей частоты").
 3. Используя каталоги, подберите частотный преобразователь, пускатель и реле.
 4. В выборе стоит ориентироваться на мощность устройств в зависимости от параметров двигателя.
 5. Предоставьте ссылки на выбранные модели устройств.
