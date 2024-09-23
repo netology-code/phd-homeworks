@@ -36,7 +36,7 @@
 
 1. [Каталог ОВЕН](https://owen.ru/).
 2. [OWEN Logic](https://owen.ru/product/programmnoe_obespechenie_owen_logic).
-3. [Техническое задание](https://docs.google.com/document/d/1gbwlSeBeI-vqroiafJa7hgi4251Mri4f8MurltaxYYE/edit?usp=sharing).
+3. [Техническое задание](https://u.netology.ru/backend/uploads/lms/content_assets/file/9342/%D0%A2%D0%B5%D1%85%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_1.docx).
 4. [Шаблон спецификации](https://u.netology.ru/backend/uploads/lms/content_assets/file/6210/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.xlsx).
 5. [Шаблон для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/6209/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__PLC_%D0%9E%D0%B2%D0%B5%D0%BD__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx).
 
@@ -50,7 +50,7 @@
 - датчики открытия/закрытия клапана,
 - кнопки открытия/закрытия и кнопку остановки (**находятся в разделе «Каталог продукции - Электротехническое оборудование MEYERTEK»**).
 
-Подберите оборудование в соответствии с [техническим заданием](https://docs.google.com/document/d/1gbwlSeBeI-vqroiafJa7hgi4251Mri4f8MurltaxYYE/edit?usp=sharing).
+Подберите оборудование в соответствии с [техническим заданием](https://u.netology.ru/backend/uploads/lms/content_assets/file/9342/%D0%A2%D0%B5%D1%85%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_1.docx).
 
 *В результате задания у вас будет заполненная [спецификация](https://u.netology.ru/backend/uploads/lms/content_assets/file/6210/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.xlsx) с комплектом подобранного оборудования. Для работы со спецификацией сохраните копию документа на свой диск*.
 
