@@ -29,34 +29,37 @@
 
 ### Инструменты и дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [Программное обеспечение Sinamics StartDrive](https://disk.yandex.ru/d/iUWWqc0MkFm9GA).
-2. [Шаблон для домашнего задания.](https://u.netology.ru/backend/uploads/lms/content_assets/file/9861/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx)
+1. [Программное обеспечение Tia Portal Step 7](https://drive.google.com/drive/folders/1EkJpwrxU6aRDm_8RWyHlbEcwmqq6sTyi).
+2. [Программное обеспечение Sinamics StartDrive](https://disk.yandex.ru/d/iUWWqc0MkFm9GA).
+3. Обратите внимание, если у вас установлен Tia Portal версии 13, нужно ставить Stardrive V13, если Tia Portal V13 SP2, то необходимо скачивать StartDrive Optional V13 SP2.
+4. [Шаблон для домашнего задания.](https://u.netology.ru/backend/uploads/lms/content_assets/file/9861/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx)
 
 
 ------
 
 ### Задание 
 
-1. Установите программное обеспечение Sinamics StartDrive().
-2. Добавьте управляющий модуль Sinamics G120.
-3. Подберите силовой модуль (Power Unit) мощностью не менее 50 кВт.
-4. Используя инструмент Commissioning, произведите первоначальную настройку преобразователя :
-4.1. Application class - SDC.
-4.2. Setpoint specification - Ramp function in drive.
-4.3. Drive settings - IEC 50 Hz, Drive supply voltage 400 V.
-4.4. Motor. 
+1. Установите программное обеспечение Tia Portal Step 7.
+2. Установите программное обеспечение Sinamics StartDrive().
+3. Добавьте управляющий модуль Sinamics G120.
+4. Подберите силовой модуль (Power Unit) мощностью не менее 50 кВт.
+5. Используя инструмент Commissioning, произведите первоначальную настройку преобразователя :
+5.1. Application class - SDC.
+5.2. Setpoint specification - Ramp function in drive.
+5.3. Drive settings - IEC 50 Hz, Drive supply voltage 400 V.
+5.4. Motor. 
 Motor configuration - enter motor data
 Motor type -induction motor
 Rated motor current - 85 Arms
 Rated motor power - 45 kW
 Rated motor speed - 1500 rpm 
-4.5. Important parameters. 
+5.5. Important parameters. 
 Рампа разгона (ramp-up) - 20 сек.
 Рампа торможения (OFF1 ramp-down) - 15 сек. 
-5. Подключите ваш преобразователь к PLC посредством Profinet.
-6. Произведите настройку IP адресов так, чтобы они были в одной подсети.
-7. Сохраните, скомпилируйте ваш проект. 
-8. Вложите ссылку на архив проекта в ваше решение.
+6. Подключите ваш преобразователь к PLC посредством Profinet.
+7. Произведите настройку IP адресов так, чтобы они были в одной подсети.
+8. Сохраните, скомпилируйте ваш проект. 
+9. Вложите ссылку на архив проекта в ваше решение.
 
 
 ------
