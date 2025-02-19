@@ -49,7 +49,7 @@
 
 ### Задание 1
 
-1. Изучите список CPU производителей: [Allen-Bradley Micro820 20 Point 2080-LC20-20QBB(R)](https://klinkmann.ru/download/?file=7961&el=17586&section=rockwell-automation), [Schneider Electric M221-16IO](https://www.se.com/ru/ru/product/download-pdf/TM221CE16R), [Mitsubishi Electric FX5U-32MR/DS](https://ru.mitsubishielectric.com/fa/products/cnt/plc/plcf/cpu-module/fx5u-32mr-ds.html).
+1. Изучите список CPU производителей: [Allen-Bradley Micro820 20 Point 2080-LC20-20QBB(R)](https://www.chipdip.ru/product0/8014597701?from=suggest_product), [Schneider Electric M221-16IO](https://www.chipdip.ru/product0/8008844456?from=suggest_product), [Mitsubishi Electric FX5U-32MR/DS](https://www.chipdip.ru/product0/8966550740).
 2. Из предложенных CPU выберите подходящий для решения задачи: «Система управления уровнем жидкости в ёмкости, в состав которой входят 4 отсечных клапана (по 2 дискретных входа и 2 дискретных выхода на каждый)».
 3. Дайте краткое пояснение, почему выбран именно этот CPU.
 
