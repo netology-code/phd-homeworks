@@ -41,7 +41,7 @@
 ### Инструменты и дополнительные материалы для задания
 
 1. [TIA Portal 13.](https://support.industry.siemens.com/cs/document/109745155/simatic-step-7-including-plcsim-v13-sp2-trial-download?dti=0&lc=en-WW)
-2. CPU различных производителей: [Allen-Bradley Micro820 20 Point 2080-LC20-20QBB(R)](https://klinkmann.ru/download/?file=7961&el=17586&section=rockwell-automation), [Schneider Electric M221-16IO](https://www.se.com/ru/ru/product/download-pdf/TM221CE16R), [Mitsubishi Electric FX5U-32MR/DS](https://ru.mitsubishielectric.com/fa/products/cnt/plc/plcf/cpu-module/fx5u-32mr-ds.html).
+2. CPU различных производителей: [Allen-Bradley Micro820 20 Point 2080-LC20-20QBB(R)](https://www.chipdip.ru/product0/8014597701?from=suggest_product), [Schneider Electric M221-16IO](https://www.chipdip.ru/product0/8008844456?from=suggest_product), [Mitsubishi Electric FX5U-32MR/DS](https://www.chipdip.ru/product0/8966550740).
 3. [Инструкция по созданию виртуальной машины.](https://u.netology.ru/backend/uploads/lms/content_assets/file/339/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E_%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B_%D0%B8_%D0%BE%D1%82%D0%BA%D0%B0%D1%82%D1%83.pptx)
 4. [Шаблон для домашнего задания.](https://u.netology.ru/backend/uploads/lms/content_assets/file/340/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D0%B5%D1%80%D1%8B_%D0%90%D0%A1%D0%A3_%D0%A2%D0%9F__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx)
 
@@ -49,7 +49,7 @@
 
 ### Задание 1
 
-1. Изучите список CPU производителей: [Allen-Bradley Micro820 20 Point 2080-LC20-20QBB(R)](https://klinkmann.ru/download/?file=7961&el=17586&section=rockwell-automation), [Schneider Electric M221-16IO](https://www.se.com/ru/ru/product/download-pdf/TM221CE16R), [Mitsubishi Electric FX5U-32MR/DS](https://ru.mitsubishielectric.com/fa/products/cnt/plc/plcf/cpu-module/fx5u-32mr-ds.html).
+1. Изучите список CPU производителей: [Allen-Bradley Micro820 20 Point 2080-LC20-20QBB(R)](https://www.chipdip.ru/product0/8014597701?from=suggest_product), [Schneider Electric M221-16IO](https://www.chipdip.ru/product0/8008844456?from=suggest_product), [Mitsubishi Electric FX5U-32MR/DS](https://www.chipdip.ru/product0/8966550740).
 2. Из предложенных CPU выберите подходящий для решения задачи: «Система управления уровнем жидкости в ёмкости, в состав которой входят 4 отсечных клапана (по 2 дискретных входа и 2 дискретных выхода на каждый)».
 3. Дайте краткое пояснение, почему выбран именно этот CPU.
 
