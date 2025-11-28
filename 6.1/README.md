@@ -37,7 +37,7 @@
 
 ### Инструменты и дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [Каталог](https://www.vega.com/ru/products "Каталог Vega") производителя датчиков давления, уровня, расхода.
+1. [Каталог](https://www.vega.com/ru/products "Каталог Vega") производителя датчиков давления, уровня, расхода. [Зеркало](https://vega-rus.ru/products/).
 2. [Каталог](https://owen.ru/ "Каталог OWEN") производителя датчиков температуры, давления, уровня, индуктивных сенсоров.
 3. [Техзадание для задания 1.](https://u.netology.ru/backend/uploads/lms/content_assets/file/5787/%D0%A2%D0%B5%D1%85%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_1.docx)
 4. [Техзадание для задания 2.](https://u.netology.ru/backend/uploads/lms/content_assets/file/5788/%D0%A2%D0%B5%D1%85%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_2.docx)
