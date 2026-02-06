@@ -36,8 +36,8 @@
 2. [Шаблон спецификации.](https://u.netology.ru/backend/uploads/lms/content_assets/file/5522/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.xlsx)
 3. [Информация о кокильном производстве.](https://stankiexpert.ru/spravochnik/litejjnoe-proizvodstvo/lite-v-kokil.html)
 4. Ссылки на оборудование поставщиков:
-- электротехнические компоненты, устройства безопасности :  [ChipDip](https://www.chipdip.ru/),[VseInstrumenti](https://www.vseinstrumenti.ru/), [Owen](https://www.owen.ru/) 
-- робототехнические компоненты [Каталог1](https://www.robowizard.ru/products/industrial-robots),[Каталог2](https://vektor-grupp.ru/),
+- электротехнические компоненты, устройства безопасности :  [ChipDip](https://www.chipdip.ru/), [VseInstrumenti](https://www.vseinstrumenti.ru/), [Owen](https://www.owen.ru/) 
+- робототехнические компоненты [Каталог1](https://www.robowizard.ru/products/industrial-robots), [Каталог2](https://vektor-grupp.ru/),
 5. [Шаблон для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/5520/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%90%D0%A0%D0%9C__%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D1%8B__%D1%88%D0%BA%D0%B0%D1%84%D1%8B__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx).
 
 -----
@@ -48,8 +48,8 @@
 Подберите оборудование для создания АСУ ТП. Для этого изучите [техническое задание](https://u.netology.ru/backend/uploads/lms/content_assets/file/5521/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx).
 Используйте оборудование поставщиков:
 
-- электротехнические компоненты, устройства безопасности :  [ChipDip](https://www.chipdip.ru/),[VseInstrumenti](https://www.vseinstrumenti.ru/), [Owen](https://www.owen.ru/) 
-- робототехнические компоненты [Каталог1](https://www.robowizard.ru/products/industrial-robots),[Каталог2](https://vektor-grupp.ru/),
+- электротехнические компоненты, устройства безопасности :  [ChipDip](https://www.chipdip.ru/), [VseInstrumenti](https://www.vseinstrumenti.ru/), [Owen](https://www.owen.ru/) 
+- робототехнические компоненты [Каталог1](https://www.robowizard.ru/products/industrial-robots), [Каталог2](https://vektor-grupp.ru/),
 
 *Заполните [спецификацию](https://u.netology.ru/backend/uploads/lms/content_assets/file/5522/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.xlsx) с комплектом подобранного оборудования. Для работы со спецификацией сохраните копию документа на свой диск*.
 
