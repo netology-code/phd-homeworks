@@ -44,7 +44,7 @@
 1. [Каталог](https://www.vega.com/ru/products "Каталог Vega") производителя датчиков давления, уровня, расхода. [Зеркало](https://vega-rus.ru/products/).
 2. [Каталог](https://owen.ru/ "Каталог OWEN") производителя датчиков температуры, давления, уровня, индуктивных сенсоров.
 3. [Техзадание для задания 1.](https://u.netology.ru/backend/uploads/lms/content_assets/file/5787/%D0%A2%D0%B5%D1%85%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_1.docx)
-4. [Техзадание для задания 2.](https://u.netology.ru/backend/uploads/lms/content_assets/file/5788/%D0%A2%D0%B5%D1%85%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_2.docx)
+4. [Техзадание для задания 2.](https://u.netology.ru/backend/uploads/lms/content_assets/file/16236/%D0%A2%D0%B5%D1%85%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_2__1_.docx)
 5. [Шаблон для домашнего задания.](https://u.netology.ru/backend/uploads/lms/content_assets/file/5786/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8_%D0%B8_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D1%8B_%D0%A7%D0%B0%D1%81%D1%82%D1%8C_1__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx)
 
 
